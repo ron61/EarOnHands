@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ear_and_Mouth_on_Hands", "Assembly-CSharp.csproj", "{FE050F65-FE13-DE67-AC9A-A3E4196892B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ear_and_Mouth_on_Hands", "Assembly-CSharp-Editor.csproj", "{86A4DB74-6FE6-AF85-0C3F-C9BD2BD3019E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE050F65-FE13-DE67-AC9A-A3E4196892B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE050F65-FE13-DE67-AC9A-A3E4196892B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE050F65-FE13-DE67-AC9A-A3E4196892B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE050F65-FE13-DE67-AC9A-A3E4196892B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A4DB74-6FE6-AF85-0C3F-C9BD2BD3019E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A4DB74-6FE6-AF85-0C3F-C9BD2BD3019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A4DB74-6FE6-AF85-0C3F-C9BD2BD3019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A4DB74-6FE6-AF85-0C3F-C9BD2BD3019E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
