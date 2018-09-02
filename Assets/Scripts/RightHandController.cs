@@ -16,13 +16,12 @@ public class RightHandController : MonoBehaviour {
     		
         if(RightControllerController.isPushed){
             this.animator.SetTrigger("FistTrigger");
-            Debug.Log("pushed");
         }
 
         if (RightControllerController.isReleased){
             this.animator.SetTrigger("IdleTrigger");
-            Debug.Log("released");
         }
 
+ 
 	}
 }

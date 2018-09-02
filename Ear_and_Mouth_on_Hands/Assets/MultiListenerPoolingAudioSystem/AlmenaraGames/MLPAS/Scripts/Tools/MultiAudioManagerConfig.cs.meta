@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7ede5867d57e61b46979dee03de45477
+timeCreated: 1518662481
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxMixerGroup: {fileID: 243115005616941730, guid: b9a6e4ee7065d664cb9cc02122796612,
+      type: 2}
+  - bgmMixerGroup: {fileID: 243318579703096844, guid: b9a6e4ee7065d664cb9cc02122796612,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
